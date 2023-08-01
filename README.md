@@ -1,2 +1,6 @@
 # KaminariModels
 This repository holds the 3D models I used for my Kaminari Sharpshooter and glasses
+
+The sharpshooter is split into a few parts, there is the main body (mainSharpshooterBody), the gears which slide into the slots at the front of the body (kaminariGear), the boxes that slide into the back of it (backBoxes) and the front belt which consists of several blocks that are connected by hinges (New-Front-Belt-Chain). I slid the back boxes into the slot in the back of the model and superglued them in to keep them attached (since the joint does not hold them by itself). Also, I did not 3D print something to hold the blocks of the front belt together, any metal wire works well to slide into it and keep them attached (I used the bendy wire often used to hold christmas ornaments). 
+
+For the glasses the concept is similar, there is the base of the glasses and a hinge-joint which slides into the slot in the base and can be superglued to stay in place. Then the arm-things have a hinge that can connect to that joint and be kept together with similar wire to the front belt of the sharpshooter. I made th lenses out of semi-transparent paper, so I 3D printed a basic cutout of the lens to help me shape the paper, then further cut it to fit the glasses and superglued it into place.
